@@ -1,4 +1,5 @@
 .env
+myenv
 activity.log
 __pycache__
 /.cursor/*

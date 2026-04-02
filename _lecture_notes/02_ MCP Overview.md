@@ -6,7 +6,7 @@
 - Makes it possible to use different AI servers without having to build an entirely new implementation of that server to use other apps like Slack or Perplexity
 
 ### MCP Architecture
-![](img/Screenshot%202026-04-01%20at%202.28.02%E2%80%AFPM.png)
+![](img/MCPArchitecture.png)
 - MCP Hosts: programs that want to access MCP services, such as Claude or Cursor
 - MCP Protocol: the language MCP clients and servers use for communication and data passing
 - MCP Servers: server applications that expose functionalities for LLMs through the MCP Protocol

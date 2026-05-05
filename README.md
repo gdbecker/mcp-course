@@ -1,6 +1,6 @@
 # Udemy - MCP Bootcamp: Build, Deploy & Secure Model Context Protocol
 
-Projects and learning from Scott Duffy's [MCP Bootcamp: Build, Deploy & Secure Model Context Protocol course on Udemy]().
+Projects and learning from Zoltan C. Toth's [MCP Bootcamp: Build, Deploy & Secure Model Context Protocol course on Udemy](https://www.udemy.com/course/learn-mcp-model-context-protocol-course-and-a2a-bootcamphands-hands-on/).
 
 ### [Certificate](https://www.udemy.com/certificate/UC-4b8ba575-ae2e-4068-b9db-311412d7c083/)
 
